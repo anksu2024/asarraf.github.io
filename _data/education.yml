@@ -1,10 +1,19 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: SUNY Buffalo
+  # dates: Feb 2015
+  qualification: MS Computer and Information Sciences
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    UB is a premier, research-intensive public university dedicated to academic excellence and making a positive impact on the world.
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    *[CSE-Department at UB](https://engineering.buffalo.edu/computer-science-engineering.html)*
+    - Life at UB taught me the importance of showing up, abiding to the timelines, and enjoying challenges.
+    - I spent a lot of my free time learning Boxing and enhancing my cooking skills.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+- layout: left
+  name: Nirma University
+  # dates: Feb 2015
+  qualification: B.Tech in Information Technology
+  quote: >
+    Department of Computer Science and Engineering was established in 1997, and since then has been producing talented professionals and leaders.
+  description: | # this will include new lines to allow paragraphs
+    *[CSE-Department at Nirma University](https://cse.nirmauni.ac.in/)*
