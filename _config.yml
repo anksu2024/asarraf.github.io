@@ -1,64 +1,105 @@
-# Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
-
-# Personal info
+# Site Settings
 name: Ankit Sarraf
-title: Senior Big Data Engineer
-email: Let's connect on LinkedIn
-# website: asarraf.github.io
+title: Ankit's UX Excursions!
+description: This is Ankit Sarraf's Portfolio website
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml
+# email: myemail@test.com
+form_collection_link: f/mrgoapoq
+# disqus_username: disqus_username
 
-darkmode: true
 
-# Social links
-# twitter_username: facespics
-# github_username:  asarraf
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: chillwildlife
+# Social Media Settings
+# Remove the item if you don't need it
+github_username: asarraf
+# facebook_username: facebook_username
+# twitter_username: twitter_username
+# instagram_username: instagram_username
 linkedin_username: ankitsarraf
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
+#medium_username: medium_username
 
-# About Section
-# about_title: About Me
-about_profile_image: images/asarraf.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Ankit and I'm a Senior Big Data Engineer with [Palo Alto Networks](https://www.paloaltonetworks.com/).<br/>
-  I am a proud Alumni of [University of Buffalo](http://www.buffalo.edu/) and [Nirma University](https://nirmauni.ac.in/)
 
-  I am most skilled in: <mark>GCP</mark> and <mark>Dancing with Confidence</mark>
+# Posts Settings
+show_time_bar: true
+show_modal_on_exit: false
+show_modal_on_finish_post: true
+two_columns_layout: true
 
-# Projects Section
-# projects_title: Projects
 
-# Experience Section
-# experience_title: Experience
+# Advanced Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+language: "en"
+categories_folder: category
+sent_message_url: "/contact/message-sent/"
 
-# Education Section
-# educaton_title: Education
-
-# More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in Big Data Engineering, I am curious about:
-   - Economics
-   - Product Designing
-   - Cybersecurity
-
-  And, I love, Running!
-
-# Footer
-footer_show_references: false
 
 # Build settings
-remote_theme: sproogen/resume-theme
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+collections:
+  authors:
+    output: true
+paginate_path: "/page/:num/"
+show_get_theme_btn: false
+use_logo: false
 
+# Content paginator
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+  auto: false
+  separator: "--page-break--"
+  permalink: "/:num/"
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
+
+# SASS
 sass:
-  sass_dir: _sass
   style: compressed
 
+# Plugins
 plugins:
- - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-paginate-content
+
+# Exclude my node related stuff
+exclude: [
+  'package.json',
+  'package-lock.json',
+  'src',
+  'node_modules',
+  'initpost.sh',
+  'Gemfile',
+  'Gemfile.lock',
+  'gulpfile.js',
+  'README.md'
+]
+
+# Theme
+version: v1.0.0
+theme: jekflix
