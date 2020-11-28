@@ -1,5 +1,5 @@
 ---
-date: 2020-11-25T00:00:00.000Z
+date: 2020-11-24T00:00:00.000Z
 layout: post
 title: "Unsolicited Redesign: <br/>LinkedIn Learning Notebooks"
 subtitle: "Let's make note-taking more user-friendly"
