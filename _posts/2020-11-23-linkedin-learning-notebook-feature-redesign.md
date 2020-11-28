@@ -17,7 +17,7 @@ tags:
   - notetaking
   - notes
   - welcome
-author: Ankit Sarraf
+author: "Ankit Sarraf"
 paginate: false
 ---
 As of Nov 26, 2020, <a href="https://www.linkedin.com/learning/">LinkedIn Learning</a> is a melting pot for curious minds to explore over 15K Courses in its content library. It is surely an exceptional platform to start the scholarly journey for a plethora of topics offered in multiple languages.
