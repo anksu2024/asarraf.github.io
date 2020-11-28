@@ -7,7 +7,7 @@ subtitle: "Let's make note-taking more effective"
 description: >-
   My views after using the LinkedIn Learning Note taking feature
 image: >-
-  assets/img/uploads/20201123/theme_photo.png
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
   assets/img/uploads/profile.png
 category: blog
@@ -20,7 +20,7 @@ tags:
 author: Ankit Sarraf
 paginate: false
 ---
-As of Nov 24, 2020, <a href="https://www.linkedin.com/learning/">LinkedIn Learning</a> is a melting pot for curious minds to explore over 15K Courses in its content library. It is surely an exceptional platform to start the scholarly journey for a plethora of topics offered in multiple languages.
+As of Nov 26, 2020, <a href="https://www.linkedin.com/learning/">LinkedIn Learning</a> is a melting pot for curious minds to explore over 15K Courses in its content library. It is surely an exceptional platform to start the scholarly journey for a plethora of topics offered in multiple languages.
 
 Many organizations have realized the criticality of the professional growth of their workforce. Sponsoring unlimited access to a premium subscription of various Open Online course websites to their employees becomes imperative in such a scenario.
 
@@ -130,7 +130,8 @@ Eg.
 ![Final_exp_5](assets/img/uploads/20201123/final_screenshots/final_exp_5.png)
 
 ## References:
-1. Courses enrolled in for this UX Case Study:
+1. <a href="https://medium.com/swlh/the-problem-with-unsolicited-redesigns-5c6d230354ed">Problems with Unsolicited Redesigns</a>
+2. Courses enrolled in for this UX Case Study:
 * <a href="https://www.linkedin.com/learning/ux-foundations-interaction-design/welcome">UX Foundations: Interaction Design</a> by <a href="https://www.linkedin.com/in/dhogue">David M. Hogue, Ph.D.</a>
 * <a href="https://www.linkedin.com/learning/ux-design-1-overview-2/welcome">UX Design: 1 Overview</a> by <a href="https://www.linkedin.com/in/chrisnodder">Chris Nodder</a>
 * <a href="https://www.linkedin.com/learning/ux-foundations-research/welcome">UX Foundations: Research</a> by <a href="https://www.linkedin.com/in/amandastockwell">Amanda Stockwell</a>
