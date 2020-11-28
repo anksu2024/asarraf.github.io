@@ -190,12 +190,12 @@
             <loc>http://localhost:4000/linkedin-learning-notebook-feature-redesign/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
-            <lastmod>2020-11-24</lastmod>
+            <lastmod>2020-11-23</lastmod>
         </url>
     
     
         <url>
-            <loc>http://localhost:4000/authors/thiagorossener/</loc>
+            <loc>http://localhost:4000/authors/asarraf/</loc>
             <changefreq>monthly</changefreq>
             <priority>0.5</priority>
         </url>

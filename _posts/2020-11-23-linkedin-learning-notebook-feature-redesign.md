@@ -1,8 +1,9 @@
 ---
-date: 2020-11-24T00:00:00.000Z
+<!-- Date in UTC -->
+date: 2020-11-23T10:00:00.000Z
 layout: post
 title: "Unsolicited Redesign: <br/>LinkedIn Learning Notebooks"
-subtitle: "Let's make note-taking more user-friendly"
+subtitle: "Let's make note-taking more effective"
 description: >-
   My views after using the LinkedIn Learning Note taking feature
 image: >-
@@ -16,10 +17,10 @@ tags:
   - notetaking
   - notes
   - welcome
-author: asarraf
+author: Ankit Sarraf
 paginate: false
 ---
-As of Nov 26, 2020, <a href="https://www.linkedin.com/learning/">LinkedIn Learning</a> is a melting pot for curious minds to explore over 15K Courses in its content library. It is surely an exceptional platform to start the scholarly journey for a plethora of topics offered in multiple languages.
+As of Nov 24, 2020, <a href="https://www.linkedin.com/learning/">LinkedIn Learning</a> is a melting pot for curious minds to explore over 15K Courses in its content library. It is surely an exceptional platform to start the scholarly journey for a plethora of topics offered in multiple languages.
 
 Many organizations have realized the criticality of the professional growth of their workforce. Sponsoring unlimited access to a premium subscription of various Open Online course websites to their employees becomes imperative in such a scenario.
 
