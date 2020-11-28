@@ -7,7 +7,7 @@ subtitle: "Let's make note-taking more effective"
 description: >-
   My views after using the LinkedIn Learning Note taking feature
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  assets/img/uploads/20201123/theme_photo.png
 optimized_image: >-
   assets/img/uploads/profile.png
 category: blog
@@ -42,7 +42,7 @@ Also, we confine ourselves only to textual notes taking that LinkedIn Learning c
 Before we dive into "why's" and "what's" of the case study, let's get the "how's" out of the way:
 
 #### Define Persona
-![Persona Image](assets/img/uploads/20201125/persona.png)
+![Persona Image](assets/img/uploads/20201123/persona.png)
 #### Exploratory Testing
 I tried out 3 courses (References) on UX Designs to determine the usefulness and utility of the note-taking functionality.
 #### Diary Study
@@ -62,7 +62,7 @@ The text formatting for the notes isn't reserved.<br/>
 <strong>Heuristic Principles to achieve:</strong> Retaining the structure will improve readability of the user's notes.<br/>
 <strong>Utility of resolution: </strong>Medium
 
-![Final_exp_1](assets/img/uploads/20201125/final_screenshots/final_exp_1.png)
+![Final_exp_1](assets/img/uploads/20201123/final_screenshots/final_exp_1.png)
 
 ### Experience 2: Auto-saving notes
 <strong>Current Behavior:</strong><br/>
@@ -75,7 +75,7 @@ Unexpected loss of unsaved notes on the completion of video right before the Cha
 <strong>Heuristic Principles to achieve:</strong> <strong>Heuristic Principles to achieve:</strong> Users can focus on the learning while reliably offloading information on notes.<br/>
 <strong>Utility of resolution: </strong>High
 
-![Final_exp_2](assets/img/uploads/20201125/final_screenshots/final_exp_2.png)
+![Final_exp_2](assets/img/uploads/20201123/final_screenshots/final_exp_2.png)
 
 ### Experience 3: Correct Reference to the point in time
 <strong>Current Behavior:</strong><br/>
@@ -99,7 +99,7 @@ Eg.
 
 <strong>Utility of resolution: </strong>Low
 
-![Final_exp_3](assets/img/uploads/20201125/final_screenshots/final_exp_3.png)
+![Final_exp_3](assets/img/uploads/20201123/final_screenshots/final_exp_3.png)
 
 ### Experience 4: Press Enter to Save
 <strong>Current Behavior:</strong><br/>
@@ -112,7 +112,7 @@ Eg.
 <strong>Heuristic Principles to achieve:</strong> Saving notes should mirror the Send button on LinkedIn Messaging.<br/>
 <strong>Utility of resolution: </strong>Medium
 
-![Final_exp_4](assets/img/uploads/20201125/final_screenshots/final_exp_4.png)
+![Final_exp_4](assets/img/uploads/20201123/final_screenshots/final_exp_4.png)
 
 ### Experience 5: Exporting Notes
 <strong>Current Behavior:</strong><br/>
@@ -127,7 +127,7 @@ Eg.
 * This is a great feature, and hence, deserves recognition.
 * I missed observing this feature in the first 2 courses.
 
-![Final_exp_5](assets/img/uploads/20201125/final_screenshots/final_exp_5.png)
+![Final_exp_5](assets/img/uploads/20201123/final_screenshots/final_exp_5.png)
 
 ## References:
 1. Courses enrolled in for this UX Case Study:
