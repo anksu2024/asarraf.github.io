@@ -129,8 +129,7 @@ Eg.
 ![Final_exp_5](assets/img/uploads/20201125/final_screenshots/final_exp_5.png)
 
 ## References:
-1. <a href="https://medium.com/swlh/the-problem-with-unsolicited-redesigns-5c6d230354ed">Problems with Unsolicited Redesigns</a>
-2. Courses I took for these courses for UX Research:
+1. Courses enrolled in for this UX Case Study:
 * <a href="https://www.linkedin.com/learning/ux-foundations-interaction-design/welcome">UX Foundations: Interaction Design</a> by <a href="https://www.linkedin.com/in/dhogue">David M. Hogue, Ph.D.</a>
 * <a href="https://www.linkedin.com/learning/ux-design-1-overview-2/welcome">UX Design: 1 Overview</a> by <a href="https://www.linkedin.com/in/chrisnodder">Chris Nodder</a>
 * <a href="https://www.linkedin.com/learning/ux-foundations-research/welcome">UX Foundations: Research</a> by <a href="https://www.linkedin.com/in/amandastockwell">Amanda Stockwell</a>
