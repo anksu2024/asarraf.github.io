@@ -6,7 +6,7 @@ subtitle: "Let's make note-taking more effective"
 description: >-
   My views after using the LinkedIn Learning Note taking feature
 image: >-
-  assets/img/uploads/20201128/theme_photo.png
+  https://raw.githubusercontent.com/asarraf/asarraf.github.io/master/assets/img/uploads/20201128/theme_photo.png
 optimized_image: >-
   assets/img/uploads/profile.png
 category: blog
@@ -26,7 +26,7 @@ Many organizations have realized the criticality of the professional growth of t
 ## My User Experience 10K ft. View:
 For the past couple of weeks, I have been pursuing a few courses on LinkedIn Learning, and I have a positive review on the platform. This article in itself is the manifestation of my learnings from the courses I enrolled in.
 
-> Before movinbg any further, please note that this article documents my opinions to make LinkedIn Learning a better self-development platform. Ideally, organizations give deep thought to the features to implement in order to facilitate the best possible User Experience. Nevertheless, in the real world, multiple technical, business, and financial constraints need to be respected leading to the prioritization of features that go live.
+> Before moving any further, please note that this article documents my opinions to make LinkedIn Learning a better self-development platform. Ideally, organizations give deep thought to the features to implement in order to facilitate the best possible User Experience. Nevertheless, in the real world, multiple technical, business, and financial constraints need to be respected leading to the prioritization of features that go live.
 
 ## Scope of this article:
 For the purpose of this UX case study, I will limit the scope to Note-taking functionality.
@@ -41,13 +41,14 @@ Also, we confine ourselves only to textual notes taking that LinkedIn Learning c
 Before we dive into "why's" and "what's" of the case study, let's get the "how's" out of the way:
 
 #### Define Persona
-![Persona Image](assets/img/uploads/20201128/persona.png)
+![Persona](https://raw.githubusercontent.com/asarraf/asarraf.github.io/master/assets/img/uploads/20201128/persona.png)
+
 #### Exploratory Testing
 I tried out 3 courses (References) on UX Designs to determine the usefulness and utility of the note-taking functionality.
 #### Diary Study
 I recorded my Qualitative and Behavioral Responses while Note-Taking.
 #### Figma Designing:
-![Figma](https://www.figma.com/file/qoAwkrOjUAIRxGBZzQNWUZ/Unsolicited-Redesign-LinkedIn-Learning-Notebooks)
+<a href="https://www.figma.com/file/qoAwkrOjUAIRxGBZzQNWUZ/Unsolicited-Redesign-LinkedIn-Learning-Notebooks">Check out here</a>
 
 ## My Experiences in Details:
 ### Experience 1: Format preservation
@@ -61,7 +62,7 @@ The text formatting for the notes isn't reserved.<br/>
 <strong>Heuristic Principles to achieve:</strong> Retaining the structure will improve readability of the user's notes.<br/>
 <strong>Utility of resolution: </strong>Medium
 
-![Final_exp_1](assets/img/uploads/20201128/final_screenshots/final_exp_1.png)
+![Final_exp_1](https://raw.githubusercontent.com/asarraf/asarraf.github.io/master/assets/img/uploads/20201128/final_screenshots/final_exp_1.png)
 
 ### Experience 2: Auto-saving notes
 <strong>Current Behavior:</strong><br/>
@@ -74,7 +75,7 @@ Unexpected loss of unsaved notes on the completion of video right before the Cha
 <strong>Heuristic Principles to achieve:</strong> <strong>Heuristic Principles to achieve:</strong> Users can focus on the learning while reliably offloading information on notes.<br/>
 <strong>Utility of resolution: </strong>High
 
-![Final_exp_2](assets/img/uploads/20201128/final_screenshots/final_exp_2.png)
+![Final_exp_2](https://raw.githubusercontent.com/asarraf/asarraf.github.io/master/assets/img/uploads/20201128/final_screenshots/final_exp_2.png)
 
 ### Experience 3: Correct Reference to the point in time
 <strong>Current Behavior:</strong><br/>
@@ -98,7 +99,7 @@ Eg.
 
 <strong>Utility of resolution: </strong>Low
 
-![Final_exp_3](assets/img/uploads/20201128/final_screenshots/final_exp_3.png)
+![Final_exp_3](https://raw.githubusercontent.com/asarraf/asarraf.github.io/master/assets/img/uploads/20201128/final_screenshots/final_exp_3.png)
 
 ### Experience 4: Press Enter to Save
 <strong>Current Behavior:</strong><br/>
@@ -111,7 +112,7 @@ Eg.
 <strong>Heuristic Principles to achieve:</strong> Saving notes should mirror the Send button on LinkedIn Messaging.<br/>
 <strong>Utility of resolution: </strong>Medium
 
-![Final_exp_4](assets/img/uploads/20201128/final_screenshots/final_exp_4.png)
+![Final_exp_4](https://raw.githubusercontent.com/asarraf/asarraf.github.io/master/assets/img/uploads/20201128/final_screenshots/final_exp_4.png)
 
 ### Experience 5: Exporting Notes
 <strong>Current Behavior:</strong><br/>
@@ -126,7 +127,7 @@ Eg.
 * This is a great feature, and hence, deserves recognition.
 * I missed observing this feature in the first 2 courses.
 
-![Final_exp_5](assets/img/uploads/20201128/final_screenshots/final_exp_5.png)
+![Final_exp_5](https://raw.githubusercontent.com/asarraf/asarraf.github.io/master/assets/img/uploads/20201128/final_screenshots/final_exp_5.png)
 
 ## References:
 1. <a href="https://medium.com/swlh/the-problem-with-unsolicited-redesigns-5c6d230354ed">Problems with Unsolicited Redesigns</a>
