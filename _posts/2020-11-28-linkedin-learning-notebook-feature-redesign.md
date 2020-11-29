@@ -21,7 +21,7 @@ paginate: false
 ---
 As of Nov 24, 2020, <a href="https://www.linkedin.com/learning/">LinkedIn Learning</a> is a melting pot for curious minds to explore over 15K Courses in its content library. It is surely an exceptional platform to start the scholarly journey for a plethora of topics offered in multiple languages.
 
-Many organizations have realized the criticality of the professional growth of their workforce. Sponsoring unlimited access to a premium subscription of various Open Online course websites to their employees becomes imperative in such a scenario.
+Many organizations have realized the criticality of the professional growth of their workforce. Sponsoring unlimited access to a premium subscription of various Open Online course websites to their employees has become imperative in such scenarios.
 
 ## My User Experience 10K ft. View:
 For the past couple of weeks, I have been pursuing a few courses on LinkedIn Learning, and I have a positive review on the platform. This article in itself is the manifestation of my learnings from the courses I enrolled in.
@@ -29,9 +29,9 @@ For the past couple of weeks, I have been pursuing a few courses on LinkedIn Lea
 > Before moving any further, please note that this article documents my opinions to make LinkedIn Learning a better self-development platform. Ideally, organizations give deep thought to the features to implement in order to facilitate the best possible User Experience. Nevertheless, in the real world, multiple technical, business, and financial constraints need to be respected leading to the prioritization of features that go live.
 
 ## Scope of this article:
-For the purpose of this UX case study, I will limit the scope to Note-taking functionality.
-I will be providing some suggestions on how it can be improved further.
-Also, we confine ourselves only to textual notes taking that LinkedIn Learning currently provides.
+For the purpose of this UX case study, I will limit the scope to the Note-taking functionality.
+I will be providing my thoughts on how it can be improved further.
+Also, we confine ourselves only to textual notes taking LinkedIn Learning currently provides.
 ## My motivation behind the case study:
 1. #GoGreen: Lesser physical notes means lesser deforestation, reduced industrial water usage, and reduced plastic waste (pens).
 2. #Inclusion: Economically struggling learners, don't need to spend money on Stationery.
@@ -72,7 +72,7 @@ Unexpected loss of unsaved notes on the completion of video right before the Cha
 * Frustrating to lose all the unsaved notes from multiple previous chapters and might have to revisit all those chapters.
 * Hampers the progress of the course because the user has to revisit all the chapter.
 
-<strong>Heuristic Principles to achieve:</strong> <strong>Heuristic Principles to achieve:</strong> Users can focus on the learning while reliably offloading information on notes.<br/>
+<strong>Heuristic Principles to achieve:</strong> Users can focus on the learning while reliably offloading information on notes.<br/>
 <strong>Utility of resolution: </strong>High
 
 ![Final_exp_2](https://raw.githubusercontent.com/asarraf/asarraf.github.io/master/assets/img/uploads/20201128/final_screenshots/final_exp_2.png)
@@ -91,7 +91,7 @@ Eg.
 * User has to remember the part of lesson corresponding to the note to revisit.
 * Inconsistency between the point when note-taking started, and the reference to the point in time depicted once note got submitted.
 
-<strong>Heuristic Principles to achieve:</strong> This will ensure that the navigation to the correct part of lesson is intuitive and consistent.<br/>
+<strong>Heuristic Principles to achieve:</strong> To ensure that the navigation to the correct part of lesson is intuitive and consistent.<br/>
 <strong>Suggested Solutions:</strong>
 * Auto-saving before beginning of the next lesson (At the end of 10 sec buffer).
 * Record the time, and the lesson when the User enters the first letter in the text box.
@@ -103,7 +103,7 @@ Eg.
 
 ### Experience 4: Press Enter to Save
 <strong>Current Behavior:</strong><br/>
-* There is only one option to save the note that by pressing 'Enter' to save.
+There is only one option to save the note that by pressing 'Enter' to save.<br />
 <strong>Severity:</strong> Low<br/>
 <strong>Outcome of the above behavior:</strong>
 * Difficult editing of Multi-paragraph notes by using "Shift" + "Enter" for new line/paragraph.
@@ -116,15 +116,14 @@ Eg.
 
 ### Experience 5: Exporting Notes
 <strong>Current Behavior:</strong><br/>
-* Users can export consolidated notes at a click of button.
-
+Users can export consolidated notes at a click of button.<br />
 <strong>Outcome of the above behavior:</strong>
-* This is a fabulous feature that could enhable downloading note for saving offline.
+* This is an important feature that enables downloading note for saving offline.
 * Downloaded note can be edited offline (Text Format).
 
 <strong>Heuristic Principles achieved:</strong> Exported notes are readily available even during an internet outage.<br/>
 <strong>Why am I including this:</strong><br/>
-* This is a great feature, and hence, deserves recognition.
+* This is feature deserves appreciation.
 * I missed observing this feature in the first 2 courses.
 
 ![Final_exp_5](https://raw.githubusercontent.com/asarraf/asarraf.github.io/master/assets/img/uploads/20201128/final_screenshots/final_exp_5.png)
