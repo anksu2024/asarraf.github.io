@@ -1,5 +1,10 @@
 <footer>
     <p>
+      {% if site.linkedin_username %}
+        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
+          <svg><use xlink:href="#icon-linkedin"></use></svg>
+        </a>
+      {% endif %}
       {% if site.github_username %}
         <a href="https://github.com/{{ site.github_username }}" title="Github">
           <svg><use xlink:href="#icon-github"></use></svg>
@@ -23,11 +28,6 @@
       {% if site.instagram_username %}
         <a href="https://www.instagram.com/{{ site.instagram_username }}" title="Instagram">
           <svg><use xlink:href="#icon-instagram"></use></svg>
-        </a>
-      {% endif %}
-      {% if site.linkedin_username %}
-        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
-          <svg><use xlink:href="#icon-linkedin"></use></svg>
         </a>
       {% endif %}
     </p>
