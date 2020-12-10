@@ -4,7 +4,7 @@ photo: /assets/img/uploads/profile.png
 name: Ankit Sarraf
 display_name: Ankit Sarraf
 position: Software Engineer
-bio: An aspiring UX Researcher
+bio: UX Enthusiast
 github_username: asarraf
 linkedin_username: ankitsarraf
 ---
